@@ -38,7 +38,7 @@ Download script.py from this repository.
 Open a terminal, navigate to the directory containing script.py and marshall.txt, and run:
 
 ```bash
-python script.py
+python logic.py
 ```
 
 #### Step 4: View Results
