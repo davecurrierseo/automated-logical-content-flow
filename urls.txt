@@ -1,0 +1,15 @@
+https://www.example.com/page1
+https://www.example.com/about
+https://www.example.com/products/item1
+https://www.example.com/services?query=alpha
+https://www.example.com/contact-us
+https://www.example.com/news/article2
+https://www.example.com/blog/2023/march
+https://www.example.com/portfolio/project3
+https://www.example.com/events/upcoming?eventid=45
+https://www.example.com/user/profile?userid=100
+https://www.example.com/faq
+https://www.example.com/terms-and-conditions
+https://www.example.com/locations/city
+https://www.example.com/webinar/session4
+https://www.example.com/promotions/spring-sale
